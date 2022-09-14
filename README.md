@@ -1,6 +1,6 @@
 ![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 
-<h1 align="center">Hi 👋, I'm KESHAV J</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> , I'm KESHAV J <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40"></h1>
 <h3 align="center">A passionate Application Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
