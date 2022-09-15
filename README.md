@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular JS**
 
-- 💬 Ask me about **C,Python,SQL**
+- <img src="https://github.com/SuryaR-25/SuryaR-25/blob/main/assets/developer.gif?raw=true" width="24" />&nbsp; Ask me about **C,Python,SQL**
 
 - 📫 How to reach me **keshavprakash02@gmail.com**
 
