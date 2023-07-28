@@ -1,6 +1,6 @@
-![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> , I'm KESHAV J <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40"></h1>
+<img align="center" alt="Coding" width="1000" height="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> , I'm KESHAV J</h1>
 <h3 align="center">A passionate Application Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
