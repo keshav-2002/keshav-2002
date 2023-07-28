@@ -1,1 +1,0 @@
-console.log('beauty world')
